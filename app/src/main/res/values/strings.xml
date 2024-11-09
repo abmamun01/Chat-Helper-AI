@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen Text Extractor</string>
+     <string name="start_service">Start Floating Button</string>
+    <string name="extract_text">Extract Text</string>
+    <string name="copy_text">Copy Text</string>
+
+     <string name="accessibility_service_label">Screen Text Extractor</string>
+    <string name="accessibility_service_description">This service allows Screen Text Extractor to read text from your screen when you click the extract button. No data is collected or stored.</string>
+</resources>
